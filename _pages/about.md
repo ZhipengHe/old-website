@@ -2,23 +2,37 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: >
+  <b><em>Honours student</em> </b><br>
+  School of Information Systems, <a href="https://www.qut.edu.au/">Queensland University of Technology</a>
+keywords: Business Process Prediction, Deep Learning
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: zhipenghe-photo.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Level 7, Y Block</p>
+    <p>QUT Gardens Point</p>
+    <p>Brisbane City, QLD 4000</p>
 
-news: true  # includes a list of news items
+
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Eager to contribute to team success through challenging work, attention to detail and excellent organizational skills. Clear understanding of Computer Science and Software Developing and training in Process Mining. Self-motivated and exceptionally reliable Honours student positioned to contribute strongly to Predictive Process Analytics and Deep Learning approaches.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## education
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+* Queensland University of Technology, Australia
+  * BInfTech Honours, 2021 (Expect)
+  * BInfTech in Information System, 2020
+* Jinling Institute of Technology, China
+  * B.E. in Software Engineering, 2016 - 2019
+
+## honors & awards
+
+* 2021 QUT International Merit Scholarship
+* 2020 QUT Vacation Research Experience Scheme (VRES) Scholarship
+* 2020 QUT International Merit Scholarship
