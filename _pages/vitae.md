@@ -2,7 +2,8 @@
 layout: page
 permalink: /vitae/
 title: vitae
-description: Materials for courses you taught. Replace this text with your description.
+description: >
+    <em>Course of Life</em>
 nav: true
 ---
 
