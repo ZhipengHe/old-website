@@ -7,6 +7,11 @@ nav: true
 display_categories: [research, study]
 horizontal: false
 ---
+
+<div class="note">       
+    <strong>NOTE</strong>: This "project" page is still under the construction.
+</div>
+
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
