@@ -334,8 +334,13 @@ footer.sticky-bottom {
     img {
       width: 100%;
     }
+    background-color: var(--global-bg-color);
+
     .card-title {
-      color: $black-color;
+      color: var(--global-text-color);
+    }
+    .card-text {
+      color: var(--global-text-color-light);
     }
   }
 
@@ -355,7 +360,7 @@ footer.sticky-bottom {
   }
 
   h2.category {
-    color: $grey-color-light;
+    color: var(--global-theme-color);
     border-bottom: 1px solid $grey-color-light;
     padding-top: 0.5rem;
     margin-top: 2rem;
@@ -518,4 +523,28 @@ html.transition *:before,
 html.transition *:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
+}
+
+
+// vitae
+.cv {
+  .card{
+    background-color: var(--global-bg-color);
+
+    .table {
+      color: var(--global-text-color);
+    }
+
+    .card-text {
+      .list-group-item {
+        background-color: var(--global-bg-color);
+      }
+
+      .badge {
+        background-color: var(--global-theme-color);
+      }
+    }
+
+  }
+
 }

@@ -44,4 +44,14 @@ html[data-theme='dark'] {
   .fa-moon {
     display : none;
   }
+  .cv {
+    .card {
+      box-shadow: 0 2px 5px 0 rgba(255,255,255,0.16), 0 2px 10px 0 rgba(255,255,255,0.12);
+    }
+  }
+  .projects {
+    .card {
+      box-shadow: 0 2px 5px 0 rgba(255,255,255,0.16), 0 2px 10px 0 rgba(255,255,255,0.12);
+    }
+  }
 }
