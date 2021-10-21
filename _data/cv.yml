@@ -64,6 +64,15 @@
 - title: Academic Experience
   type: table
   contents:
+  - title: 'Research Assistant'
+    year: Oct. 2021 - <br/> Now
+    location: School of Information Systems<br/> Queensland University of Technology, Australia
+    description: 
+    - Develop an analytical method for applying explainable AI (XAI) techniques to inspection of predictive models
+    - Implement the method as an open-source tool package for testing and validation
+    - Design and conduct experiments for evaluation using publicly available real-life datasets
+    - Build visualisation of model inspection results
+    - Develop a website for project publicity
   - title: 'Honours Research Project'
     year: Feb. 2021 – <br/> Now
     location: School of Information Systems<br/> Queensland University of Technology, Australia
@@ -78,7 +87,7 @@
     - 'Presenting the research findings and outcome in two scientific papers <br/> 
     <ul>
     <li>Paper 1: Submitted to Knowledge-Based Systems for review and the preprint version is available on <a href="https://arxiv.org/abs/2109.01419" target="_blank"><b>arXiv</b></a></li>
-    <li>Paper 2: Planned for submission to IEEE Access (SJR Q1 Journal)</li>
+    <li>Paper 2: Planned for submission to Journal of Big Data (SJR Q1 Journal)</li>
     </ul>'
   - title: '2021 AMSI Winter School Academic Training'
     year: July 2021

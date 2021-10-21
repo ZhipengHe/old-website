@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 description: >
-  <b><em>Honours student</em> </b><br>
+  <b><em>Honours student & Research Assistant</em> </b><br>
   School of Information Systems, <a href="https://www.qut.edu.au/">Queensland University of Technology</a>
 keywords: Business Process Prediction, Deep Learning, Event Log
 
