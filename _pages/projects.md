@@ -9,7 +9,7 @@ horizontal: false
 ---
 
 <div class="note">       
-    <strong>NOTE</strong>: This "project" page is still under the construction.
+    <strong>NOTE</strong>: This "project" page is still under the construction. This part will merge to <a href="http://playground.zhipenghe.me/" target="_blank"><b>playground page</b></a>.
 </div>
 
 <div class="projects">
