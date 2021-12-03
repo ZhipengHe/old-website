@@ -20,12 +20,12 @@
 - title: Education
   type: table
   contents:
-  - title: Bachelor of Information Technology (Honours)
-    year: Feb. 2021 – <br/> Now
+  - title: Bachelor of Information Technology (Honours), First Class Honours
+    year: Feb. – Dec.<br/> 2021
     location: School of Information Systems<br/> Queensland University of Technology, Australia
     description:
     - 'Co-advised by <a href="https://staff.qut.edu.au/staff/c.ouyang" target="_blank"><b>Dr. Chun Ouyang</b></a> and <a href="https://staff.qut.edu.au/staff/catarina.pintomoreira" target="_blank"><b>Dr. Catarina Moreira</b></a>'
-    - 'Recently achieved 6.7 out of 7 GPA'
+    - 'Graduated with 6.625 out of 7 GPA'
     - 'Awarded QUT International Merit Scholarship'
   - title: Bachelor of Information Technology (Information Systems)
     year: Feb. – Nov.<br/> 2020
@@ -74,7 +74,7 @@
     - Build visualisation of model inspection results
     - Develop a website for project publicity
   - title: 'Honours Research Project'
-    year: Feb. 2021 – <br/> Now
+    year: Feb. – Dec. <br/>2021
     location: School of Information Systems<br/> Queensland University of Technology, Australia
     description:
     - "Title: Investigating the Impact of Event Logs on Deep Learning-based Process Prediction Performance"

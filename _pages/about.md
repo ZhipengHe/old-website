@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 description: >
-  <b><em>Honours student & Research Assistant</em> </b><br>
+  <b><em>Research Assistant</em> </b><br>
   School of Information Systems, <a href="https://www.qut.edu.au/">Queensland University of Technology</a>
 keywords: Business Process Prediction, Deep Learning, Event Log
 
@@ -26,7 +26,7 @@ Eager to contribute to team success through challenging work, attention to detai
 ## education
 
 * Queensland University of Technology, Australia
-  * BInfTech Honours, 2021 (Expect)
+  * BInfTech Honours, First Class, 2021 
   * BInfTech in Information System, 2020
 * Jinling Institute of Technology, China
   * B.E. in Software Engineering, 2016 - 2019
