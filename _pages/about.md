@@ -3,9 +3,9 @@ layout: about
 title: about
 permalink: /
 description: >
-  <b><em>Research Assistant</em> </b><br>
+  <b><em>PhD Student</em> </b><br>
   School of Information Systems, <a href="https://www.qut.edu.au/">Queensland University of Technology</a>
-keywords: Business Process Prediction, Deep Learning, Event Log
+keywords: Digital Twins, Business Process Prediction, Event Log
 
 profile:
   align: right
@@ -21,11 +21,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Eager to contribute to team success through challenging work, attention to detail and excellent organizational skills. Clear understanding of Computer Science and Software Developing and training in Process Mining. Self-motivated and exceptionally reliable Honours student positioned to contribute strongly to Predictive Process Analytics and Deep Learning approaches.
+Eager to contribute to team success through challenging work, attention to detail and excellent organizational skills. Clear understanding of Data Science and Process Science. Self-motivated and exceptionally reliable PhD student positioned to contribute strongly to Digital Twins and Predictive Process Analytics.
 
 ## education
 
 * Queensland University of Technology, Australia
+  * Doctor of Philology, 2022 - now
   * BInfTech Honours, First Class, 2021 
   * BInfTech in Information System, 2020
 * Jinling Institute of Technology, China
@@ -33,6 +34,8 @@ Eager to contribute to team success through challenging work, attention to detai
 
 ## honors & awards
 
+* 2022 - 2024 QUT Postgraduate Research Award (QUTPRA) (International)
+* 2022 - 2024 QUT HDR Tuition Fee Scholarship
 * 2021 QUT International Merit Scholarship
 * 2020 QUT Vacation Research Experience Scheme (VRES) Scholarship
 * 2020 QUT International Merit Scholarship

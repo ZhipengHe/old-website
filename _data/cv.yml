@@ -15,11 +15,19 @@
 - title: Research Areas
   type: list
   contents:
+    - Digital Twins
     - Predictive Process Analytics
     - Machine Learning & Deep Learning
 - title: Education
   type: table
   contents:
+  - title: Doctor of Philosophy, Ph.D.
+    year: Feb. 2022 <br/> - Now
+    location: School of Information Systems<br/> Queensland University of Technology, Australia
+    description:
+    - 'Co-advised by <a href="https://staff.qut.edu.au/staff/c.ouyang" target="_blank"><b>Dr. Chun Ouyang</b></a>, <a href="https://www.qut.edu.au/about/our-people/academic-profiles/alistair.barros" target="_blank"><b>Prof. Alistair Barros</b> and <a href="https://staff.qut.edu.au/staff/catarina.pintomoreira" target="_blank"><b>Dr. Catarina Moreira</b></a>'
+    - 'Awarded QUT Postgraduate Research Award (International)'
+    - 'Awarded QUT HDR Tuition Fee Sponsorship'
   - title: Bachelor of Information Technology (Honours), First Class Honours
     year: Feb. – Dec.<br/> 2021
     location: School of Information Systems<br/> Queensland University of Technology, Australia
@@ -34,7 +42,6 @@
     - 'JIT-QUT Joint Bachelor of IT Program'
     - 'Graduated with 6 out of 7 GPA'
     - 'Awarded QUT International Merit Scholarship'
-
   - title: Bachelor of Engineering (Software Engineering)
     year: Sept. 2016 – <br/> Nov. 2020
     location: Jinling Institute of Technology, China
@@ -45,6 +52,16 @@
 - title: Honors and Awards
   type: table
   contents:
+  - title: QUT Postgraduate Research Award (QUTPRA) (International)
+    year: 2022 - <br/> 2024
+    description:
+    - Awarded for international students of exceptional research potential undertaking a Higher Degree by Research (HDR) at QUT
+    - Offered an annual stipend to assist with general living costs for Doctor of Philosophy at QUT
+  - title: QUT HDR Tuition Fee Sponsorship
+    year: 2022 - <br/> 2024
+    description:
+    - Awarded for international students of exceptional research potential undertaking a Higher Degree by Research (HDR) at QUT
+    - Offered 100% of tuition fees discount for Doctor of Philosophy at QUT
   - title: QUT International Merit Scholarship
     year: 2021
     description:
@@ -65,7 +82,7 @@
   type: table
   contents:
   - title: 'Research Assistant'
-    year: Oct. 2021 - <br/> Now
+    year: Oct. - Dec.<br/> 2021
     location: School of Information Systems<br/> Queensland University of Technology, Australia
     description: 
     - Develop an analytical method for applying explainable AI (XAI) techniques to inspection of predictive models
