@@ -5,7 +5,7 @@ permalink: /
 description: >
   <b><em>PhD Student</em> </b><br>
   School of Information Systems, <a href="https://www.qut.edu.au/">Queensland University of Technology</a>
-keywords: Digital Twins, Business Process Prediction, Event Log
+keywords: XAI, Business Process Prediction, Event Log
 
 profile:
   align: right
@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Eager to contribute to team success through challenging work, attention to detail and excellent organizational skills. Clear understanding of Data Science and Process Science. Self-motivated and exceptionally reliable PhD student positioned to contribute strongly to Digital Twins and Predictive Process Analytics.
+Eager to contribute to team success through challenging work, attention to detail and excellent organizational skills. Clear understanding of Data Science and Process Science. Self-motivated and exceptionally reliable PhD student positioned to contribute strongly to XAI and Predictive Process Analytics.
 
 ## education
 

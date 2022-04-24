@@ -1,13 +1,16 @@
 ---
 ---
 
-@misc{wickramanayake2021building,
-      abbr="preprint",
-      title={Building Interpretable Models for Business Process Prediction using Shared and Specialised Attention Mechanisms}, 
-      author={Bemali Wickramanayake and Zhipeng He and Chun Ouyang and Catarina Moreira and Yue Xu and Renuka Sindhgatta},
-      year={2021},
-      arxiv={2109.01419},
-      selected=true,
-      code={https://github.com/ZhipengHe/Shared-and-Specialised-Attention-based-Interpretable-Models},
-      abstract={In this paper, we address the "black-box" problem in predictive process analytics by building interpretable models that are capable to inform both what and why is a prediction. Predictive process analytics is a newly emerged discipline dedicated to providing business process intelligence in modern organisations. It uses event logs, which capture process execution traces in the form of multi-dimensional sequence data, as the key input to train predictive models. These predictive models, often built upon deep learning techniques, can be used to make predictions about the future states of business process execution. We apply attention mechanism to achieve model interpretability. We propose i) two types of attentions: event attention to capture the impact of specific process events on a prediction, and attribute attention to reveal which attribute(s) of an event influenced the prediction; and ii) two attention mechanisms: shared attention mechanism and specialised attention mechanism to reflect different design decisions in when to construct attribute attention on individual input features (specialised) or using the concatenated feature tensor of all input feature vectors (shared). These lead to two distinct attention-based models, and both are interpretable models that incorporate interpretability directly into the structure of a process predictive model. We conduct experimental evaluation of the proposed models using real-life dataset, and comparative analysis between the models for accuracy and interpretability, and draw insights from the evaluation and analysis results.}
+@article{WICKRAMANAYAKE2022108773,
+	abstract = {Predictive process analytics, often underpinned by deep learning techniques, is a newly emerged discipline dedicated for providing business process intelligence in modern organisations. Whilst accuracy has been a dominant criterion in building predictive capabilities, the use of deep learning techniques comes at the cost of the resulting models being used as `black boxes', i.e., they are unable to provide insights into why a certain business process prediction was made. So far, little attention has been paid to interpretability in the design of deep learning-based process predictive models. In this paper, we address the `black-box' problem in the context of predictive process analytics by developing attention-based models that are capable to inform both what and why is a process prediction. We propose i) two types of attentions---event attention to capture the impact of specific events on a prediction, and attribute attention to reveal which attribute(s) of an event influenced the prediction; and ii) two attention mechanisms---shared attention mechanism and specialised attention mechanism to reflect different design decisions between whether to construct attribute attention on individual input features (specialised) or using the concatenated feature tensor of all input feature vectors (shared). These lead to two distinct attention-based models, and both are interpretable models that incorporate interpretability directly into the structure of a process predictive model. We conduct experimental evaluation of the proposed models using real-life dataset and comparative analysis between the models for accuracy and interpretability, and draw insights from the evaluation and analysis results. The results demonstrate that i) the proposed attention-based models can achieve reasonably high accuracy; ii) both are capable of providing relevant interpretations (when validated against domain knowledge); and iii) whilst the two models perform equally in terms of prediction accuracy, the specialised attention-based model tends to provide more relevant interpretations than the shared attention-based model, reflecting the fact that the specialised attention-based model is designed to facilitate better interpretability.},
+	author = {Bemali Wickramanayake and Zhipeng He and Chun Ouyang and Catarina Moreira and Yue Xu and Renuka Sindhgatta},
+	doi = {https://doi.org/10.1016/j.knosys.2022.108773},
+	journal = {Knowledge-Based Systems},
+	keywords = {Explainable AI, Attention mechanism, Business process prediction, Event log, LSTM},
+	pages = {108773},
+	title = {Building interpretable models for business process prediction using shared and specialised attention mechanisms},
+	year = {2022},
+	selected=true,
+	abbr={KBS},
+	arxiv={2109.01419},
 }
