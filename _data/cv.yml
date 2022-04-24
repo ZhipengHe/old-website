@@ -15,8 +15,8 @@
 - title: Research Areas
   type: list
   contents:
-    - Digital Twins
-    - Predictive Process Analytics
+    - XAI
+    - Predictive Process Analytics & Event Log
     - Machine Learning & Deep Learning
 - title: Education
   type: table
