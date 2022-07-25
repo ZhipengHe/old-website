@@ -61,8 +61,9 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
+dblp_url: https://dblp.org/pid/214/4253-2.html # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
+calendar_url: http://meeting.zhipenghe.me
 
 # contact_note: >
 #   You can even add a little note about which of these is the best way to reach you.
