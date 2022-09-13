@@ -81,6 +81,13 @@
 - title: Academic Experience
   type: table
   contents:
+  - title: 'PhD Research Project'
+    year: Feb. 2022 <br/> - Now
+    location: School of Information Systems<br/> Queensland University of Technology, Australia
+    description:
+    - "Title: Building Robust Process Predictive Systems"
+    - "Co-advised by <a href="https://staff.qut.edu.au/staff/c.ouyang" target="_blank"><b>Dr. Chun Ouyang</b></a>, <a href="https://www.qut.edu.au/about/our-people/academic-profiles/alistair.barros" target="_blank"><b>Prof. Alistair Barros</b></a> and <a href="https://staff.qut.edu.au/staff/catarina.pintomoreira" target="_blank"><b>Dr. Catarina Moreira</b></a>"
+    - "The PhD project will introduce a framework for building robust process predictive systems, which will be resist to the effects of input variations in event logs. The study aims to improve the reliability of process predictive systems through reducing the impact of data variations to fulfill the requirement of robustness in trustworthy AI systems."
   - title: 'Research Assistant'
     year: Oct. - Dec.<br/> 2021
     location: School of Information Systems<br/> Queensland University of Technology, Australia
@@ -101,11 +108,7 @@
       <li>Studying and identifying key characteristics of event logs</li>
       <li>Analysing the effects of event log characteristics on predicting next processactivity based on LSTM and Transformer</li>
     </ul>"
-    - 'Presenting the research findings and outcome in two scientific papers <br/> 
-    <ul>
-    <li>Paper 1: Submitted to Knowledge-Based Systems for review and the preprint version is available on <a href="https://arxiv.org/abs/2109.01419" target="_blank"><b>arXiv</b></a></li>
-    <li>Paper 2: Planned for submission to Journal of Big Data (SJR Q1 Journal)</li>
-    </ul>'
+    - 'Presenting the research findings and outcome in the scientific paper (<a href="https://doi.org/10.1016/j.knosys.2022.108773" target="_blank"><b>KBS 2022</b></a>) and <a href="https://zhipenghe.me/assets/pdf/Honours_Thesis.pdf" target="_blank"><b>Honours thesis</b></a>'
   - title: '2021 AMSI Winter School Academic Training'
     year: July 2021
     location: Centre for Data Science<br/> Queensland University of Technology, Australia
