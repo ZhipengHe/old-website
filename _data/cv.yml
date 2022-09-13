@@ -86,7 +86,7 @@
     location: School of Information Systems<br/> Queensland University of Technology, Australia
     description:
     - "Title: Building Robust Process Predictive Systems"
-    - "Co-advised by <a href="https://staff.qut.edu.au/staff/c.ouyang" target="_blank"><b>Dr. Chun Ouyang</b></a>, <a href="https://www.qut.edu.au/about/our-people/academic-profiles/alistair.barros" target="_blank"><b>Prof. Alistair Barros</b></a> and <a href="https://staff.qut.edu.au/staff/catarina.pintomoreira" target="_blank"><b>Dr. Catarina Moreira</b></a>"
+    - 'Co-advised by <a href="https://staff.qut.edu.au/staff/c.ouyang" target="_blank"><b>Dr. Chun Ouyang</b></a>, <a href="https://www.qut.edu.au/about/our-people/academic-profiles/alistair.barros" target="_blank"><b>Prof. Alistair Barros</b></a> and <a href="https://staff.qut.edu.au/staff/catarina.pintomoreira" target="_blank"><b>Dr. Catarina Moreira</b></a>'
     - "The PhD project will introduce a framework for building robust process predictive systems, which will be resist to the effects of input variations in event logs. The study aims to improve the reliability of process predictive systems through reducing the impact of data variations to fulfill the requirement of robustness in trustworthy AI systems."
   - title: 'Research Assistant'
     year: Oct. - Dec.<br/> 2021
