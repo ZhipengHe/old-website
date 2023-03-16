@@ -15,9 +15,9 @@
 - title: Research Areas
   type: list
   contents:
-    - XAI
-    - Predictive Process Analytics & Event Log
-    - Machine Learning & Deep Learning
+    - Adversarial Attacks & Robust ML
+    - Explainable AI
+    - Structured Data
 - title: Education
   type: table
   contents:
@@ -85,9 +85,9 @@
     year: Feb. 2022 <br/> - Now
     location: School of Information Systems<br/> Queensland University of Technology, Australia
     description:
-    - "Title: Building Robust Process Predictive Systems"
+    - "Title: Building Robust Predictive Systems for Structure Data"
     - 'Co-advised by <a href="https://staff.qut.edu.au/staff/c.ouyang" target="_blank"><b>Dr. Chun Ouyang</b></a>, <a href="https://www.qut.edu.au/about/our-people/academic-profiles/alistair.barros" target="_blank"><b>Prof. Alistair Barros</b></a> and <a href="https://staff.qut.edu.au/staff/catarina.pintomoreira" target="_blank"><b>Dr. Catarina Moreira</b></a>'
-    - "The PhD project will introduce a framework for building robust process predictive systems, which will be resist to the effects of input variations in event logs. The study aims to improve the reliability of process predictive systems through reducing the impact of data variations to fulfill the requirement of robustness in trustworthy AI systems."
+    - "The focus of this research will be on addressing challenges related to adversarial robustness in tabular and sequential data. To accomplish this, the research will investigate cutting-edge attack techniques and analyse the characteristics of successful attacks on structured data. Furthermore, the study will propose an evaluation framework to benchmark these characteristics, aiming to develop defense mechanisms that ultimately enhance the robustness of machine learning models against adversarial attacks in both tabular and sequential data."
   - title: 'Research Assistant'
     year: Oct. - Dec.<br/> 2021
     location: School of Information Systems<br/> Queensland University of Technology, Australia
@@ -126,8 +126,6 @@
     - 'Proposed an organisational mining visualisation design workflow for selecting appropriate visualisation techniques to generate organisational mining visualisation'
     - 'A <a href="https://slides.zhipenghe.me/old-slides/2021-02-VRES.pdf" target="_blank"><b>project showcase</b></a> was presented to all the VRES students and supervisors from School of Computer Science and School of Information Systems.'
   
-  note: '<b>Note:</b> for further details on my academic experience, please see the <a href="/old-slides/2021-07-AMSI.pdf" target="_blank"><b>PDF</b></a> version.'
-
 - title: Professional Experience
   type: table
   contents:

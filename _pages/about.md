@@ -3,9 +3,9 @@ layout: about
 title: about
 permalink: /
 description: >
-  <b><em>PhD Student</em> </b><br>
+  <b><em>PhD Candidate</em> </b><br>
   School of Information Systems, <a href="https://www.qut.edu.au/">Queensland University of Technology</a>
-keywords: XAI, Business Process Prediction, Event Log
+keywords: Adversarial Attacks, Robust ML, Explainable AI
 
 profile:
   align: right
@@ -21,12 +21,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Eager to contribute to team success through challenging work, attention to detail and excellent organizational skills. Clear understanding of Data Science and Process Science. Self-motivated and exceptionally reliable PhD student positioned to contribute strongly to XAI and Predictive Process Analytics.
+Eager to contribute to team success through challenging work, attention to detail and excellent organizational skills. Clear understanding of Data Science and Process Science. Self-motivated and exceptionally reliable PhD student positioned to contribute strongly to Robust ML and Explainable AI.
 
 ## education
 
 * Queensland University of Technology, Australia
-  * Doctor of Philology, 2022 - now
+  * Doctor of Philosophy, 2022 - now
   * BInfTech Honours, First Class, 2021 
   * BInfTech in Information System, 2020
 * Jinling Institute of Technology, China
